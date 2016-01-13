@@ -10,4 +10,9 @@ public class Test {
 	public static int getNumber(){
 		return 3;
 	}
+	
+	//Return the String "A string"
+	public static String getString(){
+		return "A string";
+	}
 }
