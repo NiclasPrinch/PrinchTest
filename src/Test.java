@@ -6,7 +6,7 @@ public class Test {
 
 	}
 
-	//Returns the number 1
+	//Returns the number 2
 	public static int getNumber(){
 		return 1;
 	}
