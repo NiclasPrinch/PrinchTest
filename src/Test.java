@@ -6,8 +6,8 @@ public class Test {
 
 	}
 
-	//Returns the number 2
+	//Returns the number 3
 	public static int getNumber(){
-		return 1;
+		return 3;
 	}
 }
